@@ -1,7 +1,7 @@
 """
 Functions to calc bond distances
 """
-from .measure import calculate_distacne
+from .measure import calculate_distance
 
 def build_bond_list(coordinates, max_bond=1.5, min_bond=0):
     

@@ -1,3 +1,7 @@
+"""
+Data used for the rest of the package.
+"""
+
 import os
 import numpy as np
 import matplotlib.pyplot as plt
